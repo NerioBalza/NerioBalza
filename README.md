@@ -5,7 +5,7 @@
 
 ___
 
-## 💼 My proyects.
+## 💼 My projects.
 
 - Notes: 
 - Easy Resume: 
