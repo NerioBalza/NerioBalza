@@ -1,11 +1,13 @@
 ## 👋 Hi, I'm Nerio 
 
-- 
--
+- 👨🏻‍💻 I'm a Frontend Developer and I build web applications.
+- 🚀 My main skill set is React, Sass and Webpack, furthermore, I use technologies such as Nodejs and npm everyday.
+- 🔍 If you want to see my work, check out my personal projects.
+- 📫 Get in touch with me via neriojbd@gmail.com
 
 ___
 
-## 💼 My projects.
+## 💼 My Projects.
 
 - Notes: 
 - Easy Resume: 
