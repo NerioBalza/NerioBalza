@@ -9,9 +9,15 @@ ___
 
 ## 💼 My Projects.
 
-- [Notes](https://github.com/neriobalza/notes): Notes is a web application that can be used to write notes and save them.
-- [Rick & Morty Characters](https://github.com/neriobalza/rick-and-morty): [Live](https://rick-and-morty-d5ee5.firebaseapp.com/).
+### React:
+- Easy Notes: Create, Read, Update and Delete your notes,
+[Repository](https://github.com/neriobalza/notes) - [Live]()
+- Rick & Morty Characters: 
+[Repository](https://github.com/neriobalza/rick-and-morty) - [Live](https://rick-and-morty-d5ee5.firebaseapp.com/).
+- Images PDF: 
+[Repository](https://github.com/neriobalza/) - [Live](https://easy-images-pdf.firebaseapp.com)
 - Easy Resume: Work in progress.
+[Repository](https://github.com/neriobalza/) - [Live]()
 
 ___
 
