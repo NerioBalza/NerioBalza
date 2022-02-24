@@ -10,14 +10,11 @@ ___
 ## 💼 My Projects.
 
 ### React:
-- Easy Notes: Create, Read, Update and Delete your notes,
-[Repository](https://github.com/neriobalza/notes) - [Live]()
-- Rick & Morty Characters: 
-[Repository](https://github.com/neriobalza/rick-and-morty) - [Live](https://rick-and-morty-d5ee5.firebaseapp.com/).
-- Images PDF: 
-[Repository](https://github.com/neriobalza/) - [Live](https://easy-images-pdf.firebaseapp.com)
-- Easy Resume: Work in progress.
-[Repository](https://github.com/neriobalza/) - [Live]()
+- Rick & Morty Characters: Web application that consumes an API and displays all the characters from the Rick and Morty TV show.
+[Repository](https://github.com/neriobalza/rick-and-morty) - [Live](https://rick.neriobalza.com/).
+- Images PDF: Web application that you can use to upload your images and create a PDF that you can deliver to your customers.
+[Live](https://imagespdf.com)
+- Easy Resume: In Development.
 
 ___
 
