@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nerio 
+# 👋 Hi, I'm Nerio Balza
 
 I’m a FullStack Developer with experience in JavaScript, React, Node, Express, Html5, Css3, Git, Sass, with high capacity for teamwork, creativity and learning. My main experience is in the Frontend Development area, making responsive websites and web applications that are accessible for users, true to the design and always working with the best practices and the latest technologies. In addition, I also have experience making Backend services such as REST APIS and Data Bases. Among my interests are the development process, the whole lifecycle of a product, learning and gaining knowledge from failures and successes.
 
@@ -6,7 +6,7 @@ My mission is to create software that has a positive impact on society. I'm very
 
 ___
 
-# What I do:
+# 🛠️ What I do:
 
 ## Frotend Development:
 
@@ -27,16 +27,21 @@ I build web applications, ...
 ### Projects
 
 - #### Rick and Morty App: 
+Web application that consumes an API and displays all the characters from the Rick and Morty TV show.
+
+[Github Repository](https://github.com/neriobalza/rick-and-morty) - [Link](https://rick.neriobalza.com/)
 
 - #### Images PDF:
+Web application that you can use to upload your images and create a PDF that you can deliver to your customers.
+
+[Link](https://imagespdf.com)
 
 - #### Todo App:
 
-Rick & Morty Characters: Web application that consumes an API and displays all the characters from the Rick and Morty TV show.
-[Repository](https://github.com/neriobalza/rick-and-morty) - [Live](https://rick.neriobalza.com/).
-Images PDF: Web application that you can use to upload your images and create a PDF that you can deliver to your customers.
-[Live](https://imagespdf.com)
-Easy Resume: In Development.
+[Github Repository](https://github.com/neriobalza/todo-app) - [Link](https://todo.neriobalza.com/)
+
+- #### Easy Resume: 
+In Development.
 
 ___
 
