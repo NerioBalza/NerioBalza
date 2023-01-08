@@ -1,4 +1,4 @@
-# Hi, my name is Nerio Balza.  I build websites and apps.
+# Hi, my name is Nerio Balza.\ I build websites and apps.
 
 ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS%20-%23326ce5.svg?&style=for-the-badge&logo=css3&logoColor=white)
